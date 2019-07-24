@@ -12,4 +12,6 @@ func main() {
 
 	database.Database()
 	fmt.Println("Done")
+	fmt.Println("added into fork")
+	fmt.Println("this commit was added after the pull request was submitted")
 }
