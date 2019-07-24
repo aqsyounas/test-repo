@@ -12,4 +12,5 @@ func main() {
 
 	database.Database()
 	fmt.Println("Done")
+	fmt.Println("added into fork")
 }
