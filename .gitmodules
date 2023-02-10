@@ -1,4 +1,4 @@
 [submodule "src"]
 	path = src
 	url = https://github.com/OpenSIPS/opensips.git
-	branch = 3.2
+	branch = 3.1
